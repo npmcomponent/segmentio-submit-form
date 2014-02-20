@@ -1,5 +1,5 @@
 
-var trigger = require('trigger-event');
+var trigger = require('ianstormtaylor-trigger-event');
 
 
 /**
